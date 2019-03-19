@@ -1,9 +1,9 @@
 {
-  "name": "vscode-vue-devpack",
-  "displayName": "Vue Development Extension Pack",
+  "name": "vscode-vue-devpack-clean",
+  "displayName": "Vue Development Extension Pack Clean",
   "description": "Extension collection for Vue Developer using Visual Studio Code",
-  "version": "1.1.0",
-  "publisher": "changjoo-park",
+  "version": "1.0.0",
+  "publisher": "rafrancoso",
   "icon": "icon.png",
   "galleryBanner": {
      "color": "#fff",
@@ -23,11 +23,11 @@
     "Extension Packs"
   ],
   "repository": {
-    "url": "https://github.com/ChangJoo-Park/vscode-vue-pack"
+    "url": "https://github.com/rafrancoso/vscode-vue-pack"
   },
-  "homepage": "https://github.com/ChangJoo-Park/vscode-vue-pack",
+  "homepage": "https://github.com/rafrancoso/vscode-vue-pack",
   "bugs": {
-    "url": "https://github.com/ChangJoo-Park/vscode-vue-pack/issues"
+    "url": "https://github.com/rafrancoso/vscode-vue-pack/issues"
   },
   "extensionDependencies": [
     "eamodio.gitlens",
