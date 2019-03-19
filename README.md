@@ -10,7 +10,6 @@ This extensions pack has awesome VSCode Extensions :)
 - [Git Blame](https://marketplace.visualstudio.com/items?itemName=waderyan.gitblame)
 - [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
 - [Git Project Manager](https://marketplace.visualstudio.com/items?itemName=felipecaputo.git-project-manager)
-- [Sublime Text Keymap](https://marketplace.visualstudio.com/items?itemName=ms-vscode.sublime-keybindings)
 - [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
 - [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.bookmarks)
 - [CodeMetrics](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-codemetrics)
@@ -34,4 +33,4 @@ This extensions pack has awesome VSCode Extensions :)
   - [Fira Code](https://github.com/tonsky/FiraCode)
   - with set `"editor.fontLigatures": true`
 
-You can feel free to create new issue [here](https://github.com/ChangJoo-Park/vscode-vue-pack/issues)!
+You can feel free to create new issue [here](https://github.com/rafrancoso/vscode-vue-pack/issues)!
