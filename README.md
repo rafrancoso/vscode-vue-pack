@@ -1,5 +1,11 @@
 # Extension pack for Vue developers
 
+This extension pack is based on the work of ChangJoo-Park
+
+https://github.com/ChangJoo-Park/vscode-vue-pack
+
+The only change is the removal of Sublime Keymap.
+
 This extensions pack has awesome VSCode Extensions :)
 
 ## This pack has...
